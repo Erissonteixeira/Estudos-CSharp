@@ -1,0 +1,15 @@
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\bin\Debug\net10.0\Desafio02-Calculadora.exe
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\bin\Debug\net10.0\Desafio02-Calculadora.deps.json
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\bin\Debug\net10.0\Desafio02-Calculadora.runtimeconfig.json
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\bin\Debug\net10.0\Desafio02-Calculadora.dll
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\bin\Debug\net10.0\Desafio02-Calculadora.pdb
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.AssemblyInfoInputs.cache
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.AssemblyInfo.cs
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.sourcelink.json
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.dll
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\refint\Desafio02-Calculadora.dll
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.pdb
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\Desafio02-Calculadora.genruntimeconfig.cache
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio02-Calculadora\obj\Debug\net10.0\ref\Desafio02-Calculadora.dll
