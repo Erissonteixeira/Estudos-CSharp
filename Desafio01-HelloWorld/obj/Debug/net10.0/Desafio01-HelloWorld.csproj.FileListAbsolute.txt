@@ -1,0 +1,15 @@
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\bin\Debug\net10.0\Desafio01-HelloWorld.exe
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\bin\Debug\net10.0\Desafio01-HelloWorld.deps.json
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\bin\Debug\net10.0\Desafio01-HelloWorld.runtimeconfig.json
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\bin\Debug\net10.0\Desafio01-HelloWorld.dll
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\bin\Debug\net10.0\Desafio01-HelloWorld.pdb
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.AssemblyInfo.cs
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.sourcelink.json
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.dll
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\refint\Desafio01-HelloWorld.dll
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.pdb
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\Desafio01-HelloWorld.genruntimeconfig.cache
+C:\Users\erisson.teixeira\Desktop\Estudos-CSharp\Desafio01-HelloWorld\obj\Debug\net10.0\ref\Desafio01-HelloWorld.dll
